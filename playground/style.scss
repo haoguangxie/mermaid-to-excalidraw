@@ -1,3 +1,13 @@
+@font-face {
+  font-family: "ShouShuTi";
+  src: url("/fonts/ShouShuTi-fixed.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Override only for mixed content - let English keep original fonts */
+
 body {
   margin-top: 0;
   margin-bottom: 0;
